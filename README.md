@@ -13,5 +13,8 @@
   controls          
   preload="metadata"
 >
+![实验1gif版](https://github.com/user-attachments/assets/580204e2-ea8f-408b-bc6f-bd335d30af9e)
+
+
 
 
