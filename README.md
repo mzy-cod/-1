@@ -7,4 +7,11 @@
 以及理解图形学底层的硬件加速机制，通过 Taichi 框架实现与 GPU 的连通，运用并行计算驱动大规模粒子群的物理模拟。  
 **代码基于 Taichi 框架实现的GPU 并行化粒子物理系统，核心功能是让大量粒子受鼠标位置的引力影响，并在边界内反弹**  
 核心参数：GRAVITY_STRENGTH、DRAG_COEF、BOUNCE_COEF是控制粒子行为的关键常量。
+<video 
+  src="[https://raw.githubusercontent.com/你的用户名/仓库名/main/videos/demo.mp4](https://github.com/mzy-cod/-1/raw/refs/heads/main/%E5%AE%9E%E9%AA%8C1.mp4)"  
+  width="800"        
+  controls          
+  preload="metadata"
+>
+
 
